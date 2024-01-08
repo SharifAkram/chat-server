@@ -1,3 +1,5 @@
+%% To send messages to the chat server
+
 -module(chat_server).
 -behavior(gen_server).
 
